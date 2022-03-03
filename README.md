@@ -1,4 +1,4 @@
-<p align="left"><img src="https://github.com/kishlayjeet/kishlayjeet/blob/main/Black%20Geometric%20Retro%20Concert%20Ticket.jpg?raw=true" alt="kishlayjeet"/></p>
+<p align="left"><img src="https://github.com/kishlayjeet/kishlayjeet/blob/main/Black%20Geometric%20Retro%20Concert%20Ticket.png?raw=true" alt="kishlayjeet"/></p>
 
 <h1 align="center">Hi 👋, I'm Kishlay Jeet</h1>
 <h3 align="center">A Boy trying to Figure-Out Stuff!!</h3>
