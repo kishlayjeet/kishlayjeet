@@ -1,4 +1,4 @@
-<p align="left"><img src="https://www.canva.com/join/money-hatchback-dispenser" alt="kishlayjeet"/></p>
+<p align="left"><img src="" alt="kishlayjeet"/></p>
 
 <h1 align="center">Hi 👋, I'm Kishlay Jeet</h1>
 <h3 align="center">A Boy trying to Figure-Out Stuff!!</h3>
