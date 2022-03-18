@@ -5,9 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishlayjeet&label=Profile%20views&color=0e75b6&style=flat" alt="kishlayjeet" /> </p>
 
-- 🌱 I’m currently learning **JavaScript and MySql**
+- 🌱 I’m currently learning **everything 😅**
 
-- 📫 How to reach me **kishlayjeetktr@gmail.com**
+- 🥅 2022 Goals: **Learn more about web development**
+
+- 📫 How to reach me **kishlay.jeet_bca21@gla.ac.in**
 
 - ⚡️ Fun fact **Lemons float, but limes sink.**
 
