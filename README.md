@@ -1,5 +1,3 @@
-<p align="left"><img src="https://github.com/kishlayjeet/kishlayjeet/blob/main/Copy%20of%20Copy%20of%20Black%20Geometric%20Retro%20Concert%20Ticket.png?raw=true" alt="kishlayjeet"/></p>
-
 <h1 align="center">Hello! I'm Kishlay 💫</h1>
 <h3 align="center">A Boy Trying to Make Sense of Things!!</h3>
 
