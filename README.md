@@ -7,7 +7,7 @@
 
 - 🥅 Learning about app development is one of my goals for 2022.
 
-- 📫 How to reach me **kishlay.jeet_bca21@gla.ac.in**
+- 📫 How to reach me **contact.kishlayjeet.gmail.com**
 
 - ⚡️ According to an interesting fact, **limes float while lemons sink**.
 
