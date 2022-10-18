@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishlayjeet&label=Profile%20views&color=0e75b6&style=flat" alt="kishlayjeet" /> </p>
 
-- 🌱 Right now, **I'm learning everything.**
+- 🌱 Right now, **I'm learning about a specific field.**
 
-- 🥅 Learning about app development is one of my goals for 2022.
+- 🥅 Learning about **the data field is one of my goals for this year**.
 
-- 📫 How to reach me **contact.kishlayjeet.gmail.com**
+- 📫 You can contact me at **contact.kishlayjeet.gmail.com**
 
 - ⚡️ According to an interesting fact, **limes float while lemons sink**.
 
