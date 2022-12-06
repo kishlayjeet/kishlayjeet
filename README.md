@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="200" width="350" />
+    <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 350px; height: 210px;"/>
 </div> 
 
 ### <div align="center">I'm Kishlay, a boy trying to make sense of things!✨</div>  
