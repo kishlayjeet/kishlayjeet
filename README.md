@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="200" width="350" />
-</div>  
+</div> 
 
 ### <div align="center">I'm Kishlay, a boy trying to make sense of things!✨</div>  
 
@@ -15,10 +15,10 @@
 - ⚡️ According to one estimate, **[1.145 trillion megabytes](https://techjury.net/blog/how-much-data-is-created-every-day/)** of data are produced daily.
 
 ### <h3 align="left">Connect with me:</h3>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kishlayjeet)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kishlayjigar)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/kishlayjigar)
+<p align="left">
+<a href="https://linkedin.com/in/kishlayjeet" target="blank"><img align="center" src="https://img.icons8.com/color/48/null/linkedin.png" alt="kishlayjeet"/></a>
+<a href="https://instagram.com/kishlayjigar" target="blank"><img align="center" src="https://img.icons8.com/color-glass/48/null/instagram-new.png" alt="kishlayjigar"/></a>
+<a href="https://twitter.com/kishlayjigar" target="blank"><img align="center" src="https://img.icons8.com/color/48/null/twitter-squared.png" alt="kishlayjigar"/></a>
 
 ### <h3 align="left">Languages and Tools:</h3>
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
