@@ -19,8 +19,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kishlayjeet)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kishlayjigar)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/kishlayjigar)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/kishlayjeet#5076)  
-[![HackerRank](https://img.shields.io/badge/HackerRank-%231DA1F2.svg?logo=HackerRank&logoColor=white)](https://hackerrank.com/kishlayjeet)
 
 ### <h3 align="left">Languages and Tools:</h3>
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
