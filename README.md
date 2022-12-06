@@ -7,13 +7,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishlayjeet&label=Profile%20views&color=0e75b6&style=flat" alt="kishlayjeet" /> </p>
 
-- 🔭 I’m currently working on **my skills.**
+- 🔭 I’m currently working on **ETL.**
 
-- 🌱 Right now, **I'm learning about ETL.**                                                                                                                                          
+- 🌱 Right now, I'm learning about **data pipelines.**                                                                                                                                          
 
 - 💬 Ask me about anything related to **data-related technologies.**
 
-- ⚡️ According to an interesting fact, **limes float while lemons sink.**
+- ⚡️ According to one estimate, **[1.145 trillion megabytes](https://techjury.net/blog/how-much-data-is-created-every-day/)** of data are produced daily.
 
 
 ### <h3 align="left">Connect with me:</h3>
