@@ -2,7 +2,6 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="200" width="350" />
 </div>  
 
-
 ### <div align="center">I'm Kishlay, a boy trying to make sense of things!✨</div>  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishlayjeet&label=Profile%20views&color=0e75b6&style=flat" alt="kishlayjeet" /> </p>
@@ -15,24 +14,13 @@
 
 - ⚡️ According to one estimate, **[1.145 trillion megabytes](https://techjury.net/blog/how-much-data-is-created-every-day/)** of data are produced daily.
 
-
 ### <h3 align="left">Connect with me:</h3>
 
-<p align="left">
-<div align="left">
-<a href="https://github.com/kishlayjeet" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/kishlayjigar" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/kishlayjeet" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/kishlayjigar" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kishlayjeet)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kishlayjigar)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/kishlayjigar)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/kishlayjeet#5076)  
+[![HackerRank](https://img.shields.io/badge/HackerRank-%231DA1F2.svg?logo=HackerRank&logoColor=white)](https://hackerrank.com/kishlayjeet)
 
 ### <h3 align="left">Languages and Tools:</h3>
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
