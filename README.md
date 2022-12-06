@@ -3,7 +3,7 @@
 </div>  
 
 
-### <div align="center">I'm Kishlay, a boy trying to make sense of things!✨ Data Enthusiast.</div>  
+### <div align="center">I'm Kishlay, a boy trying to make sense of things!✨</div>  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishlayjeet&label=Profile%20views&color=0e75b6&style=flat" alt="kishlayjeet" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 🌱 Right now, **I'm learning about ETL.**                                                                                                                                          
 
-- ❓ Ask me about anything related to **data-related technologies.**
+- 💬 Ask me about anything related to **data-related technologies.**
 
 - ⚡️ According to an interesting fact, **limes float while lemons sink.**
 
@@ -68,6 +68,9 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 
 
 ### <h3 align="left">Github Stats:</h3>  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=kishlayjeet&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishlayjeet&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kishlayjeet&show_icons=true&locale=en" alt="kishlayjeet" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kishlayjeet&" alt="kishlayjeet" /></p> 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kishlayjeet&show_icons=true&locale=en&layout=compact" alt="kishlayjeet" /></p>
