@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 350px; height: 210px;"/>
+    <img src="https://imgur.com/BtTpfP2.gif" align="center"/>
 </div> 
 
 ### <div align="center">I'm Kishlay, a boy trying to make sense of things!✨</div>  
@@ -16,9 +16,9 @@
 
 ### <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kishlayjeet" target="blank"><img align="center" src="https://img.icons8.com/color/48/null/linkedin.png" alt="kishlayjeet"/></a>
-<a href="https://instagram.com/kishlayjigar" target="blank"><img align="center" src="https://img.icons8.com/color-glass/48/null/instagram-new.png" alt="kishlayjigar"/></a>
-<a href="https://twitter.com/kishlayjigar" target="blank"><img align="center" src="https://img.icons8.com/color/48/null/twitter-squared.png" alt="kishlayjigar"/></a>
+<a href="https://linkedin.com/in/kishlayjeet" target="blank"><img align="center" width="50" src="https://img.icons8.com/color/144/null/linkedin.png" alt="kishlayjeet"/></a>
+<a href="https://instagram.com/kishlayjigar" target="blank"><img align="center" width="50" src="https://img.icons8.com/color-glass/144/null/instagram-new.png" alt="kishlayjigar"/></a>
+<a href="https://twitter.com/kishlayjigar" target="blank"><img align="center" width="50" src="https://img.icons8.com/color/144/null/twitter-squared.png" alt="kishlayjigar"/></a>
 
 ### <h3 align="left">Languages and Tools:</h3>
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
