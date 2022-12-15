@@ -2,7 +2,7 @@
     <img src="https://imgur.com/BtTpfP2.gif" align="center"/>
 </div> 
 
-### <div align="center">I'm Kishlay, a data enthusiast and aspiring engineer!✨<br>I'm always looking for new opportunities to learn and grow in the field of data and technology.</div>  
+### <div align="center">I'm Kishlay, a Data Enthusiast exploring the world of data science and engineering!✨<br>I'm always looking for new opportunities to learn and grow in the field of data and technology.</div>  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishlayjeet&label=Profile%20views&color=0e75b6&style=flat" alt="kishlayjeet" /> </p>
 
@@ -10,7 +10,7 @@
 
 - 🌱 I'm also familiar with a variety of languages and tools, including **Python, SQL,** and **AWS.**                                                                                                                                        
 
-- 💬 Ask me about anything related to **data** and **related technologies.**
+- 💬 I love to discuss anything related to **data-related technologies.**
 
 - ⚡️ According to one estimate, **[1.145 trillion megabytes](https://techjury.net/blog/how-much-data-is-created-every-day/)** of data are produced daily.
 
