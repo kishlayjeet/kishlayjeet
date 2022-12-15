@@ -10,7 +10,7 @@
 
 - 🌱 I'm also familiar with a variety of languages and tools, including **Python, SQL,** and **AWS.**                                                                                                                                        
 
-- 💬 Ask me about anything related to **data-related technologies.**
+- 💬 Ask me about anything related to **data** and **related technologies.**
 
 - ⚡️ According to one estimate, **[1.145 trillion megabytes](https://techjury.net/blog/how-much-data-is-created-every-day/)** of data are produced daily.
 
