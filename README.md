@@ -2,13 +2,13 @@
     <img src="https://imgur.com/BtTpfP2.gif" align="center"/>
 </div> 
 
-### <div align="center">I'm Kishlay, a boy trying to make sense of things!✨</div>  
+### <div align="center">I'm Kishlay, a data enthusiast and aspiring engineer!✨<br>I'm always looking for new opportunities to learn and grow in the field of data and technology.</div>  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishlayjeet&label=Profile%20views&color=0e75b6&style=flat" alt="kishlayjeet" /> </p>
 
-- 🔭 I’m currently working on **ETL.**
+- 🔭 Currently, I'm working on **ETL** and learning about **data pipelines.** 
 
-- 🌱 Right now, I'm learning about **data pipelines.**                                                                                                                                          
+- 🌱 I'm also familiar with a variety of languages and tools, including **Python, SQL,** and **AWS.**                                                                                                                                        
 
 - 💬 Ask me about anything related to **data-related technologies.**
 
