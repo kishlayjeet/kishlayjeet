@@ -54,8 +54,9 @@
 
 ### <h3 align="left">Github Stats:</h3>  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kishlayjeet&show_icons=true&locale=en" alt="kishlayjeet" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kishlayjeet&show_icons=true&locale=en" alt="kishlayjeet" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kishlayjeet&" alt="kishlayjeet" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kishlayjeet&" alt="kishlayjeet" /></p> 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kishlayjeet&show_icons=true&locale=en&layout=compact" alt="kishlayjeet" /></p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kishlayjeet&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kishlayjeet&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kishlayjeet&theme=github)
