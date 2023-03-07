@@ -2,7 +2,7 @@
     <img src="https://imgur.com/BtTpfP2.gif" align="center"/>
 </div> 
 
-### <div align="center">I'm Kishlay, a Data Enthusiast exploring the world of data science and engineering!✨<br>I'm always looking for new opportunities to learn and grow in the field of data and technology.<br>I believe that data has the power to unlock insights and drive decision-making.</div>  
+### <div align="center">I'm Kishlay, and I'm a passionate data enthusiast exploring the fascinating world of data science and engineering!✨ As a lifelong learner, I'm constantly seeking out new opportunities to expand my knowledge and skills in the field of data and technology.</div>  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishlayjeet&label=Profile%20views&color=0e75b6&style=flat" alt="kishlayjeet" /> </p>
 
