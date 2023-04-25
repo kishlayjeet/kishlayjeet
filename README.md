@@ -19,39 +19,31 @@
 <a href="https://linkedin.com/in/kishlayjeet" target="blank"><img align="center" width="50" src="https://img.icons8.com/color/144/null/linkedin.png" alt="kishlayjeet"/></a>
 <a href="https://instagram.com/kishlayjigar" target="blank"><img align="center" width="50" src="https://img.icons8.com/color-glass/144/null/instagram-new.png" alt="kishlayjigar"/></a>
 <a href="https://twitter.com/kishlayjigar" target="blank"><img align="center" width="50" src="https://img.icons8.com/color/144/null/twitter-squared.png" alt="kishlayjigar"/></a>
+    
 
 ### <h3 align="left">Languages and Tools:</h3>
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) 
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) 
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![SQL](https://img.shields.io/badge/SQL-3670A0?style=for-the-badge&logo=sql&logoColor=ffdd54) 
+![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white) 
+![Shell Script](https://img.shields.io/badge/Shell_Script-%23121011?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) 
-![Apache Cassandra](https://img.shields.io/badge/Apache%20Cassandra-%233F4F75?style=flat&logo=Apache%20Cassandra&logoColor=white) 
+![AWS S3](https://img.shields.io/badge/AWS_S3-%23FF9900?style=for-the-badge&logo=amazon-s3&logoColor=white) 
+![AWS Redshift](https://img.shields.io/badge/AWS_Redshift-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white) 
+![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192?style=for-the-badge&logo=postgresql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b?style=for-the-badge&logo=mongodb&logoColor=white) 
+![Apache Cassandra](https://img.shields.io/badge/Apache_Cassandra-%233F4F75?style=for-the-badge&logo=Apache%20Cassandra&logoColor=white) 
 
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white) 
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-%23121011?style=flat&logo=Apache%20Kafka&logoColor=white) 
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) 
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-%23121011?style=for-the-badge&logo=Apache%20Kafka&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-017CEE?style=for-the-badge&logo=Apache%20Spark&logoColor=white) 
+
 
 ### <h3 align="left">Github Stats:</h3>  
-
-<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kishlayjeet&show_icons=true&locale=en" alt="kishlayjeet" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kishlayjeet&" alt="kishlayjeet" /></p> -->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kishlayjeet&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kishlayjeet&theme=github)
